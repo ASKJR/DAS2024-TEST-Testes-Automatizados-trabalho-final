@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "baseUrl": ".", // Set the base URL to the project root
+    "paths": {
+      "util/*": ["util/*"] // Alias for the util folder
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "tests/**/*.ts",
+    "util/**/*.ts" // Include the util folder in the TypeScript compilation
+  ]
+}
