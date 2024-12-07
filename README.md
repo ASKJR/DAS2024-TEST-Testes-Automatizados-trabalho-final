@@ -18,8 +18,7 @@ Certifique-se de que você possui os seguintes itens instalados antes de começa
 
 1. **Clone o repositório**  
    Abra o terminal e execute o seguinte comando:  
-   `git clone <URL_DO_REPOSITORIO>`  
-   Substitua `<URL_DO_REPOSITORIO>` pela URL do repositório correspondente.
+   `git clone https://github.com/ASKJR/DAS2024-TEST-Testes-Automatizados-trabalho-final.git`
 
 2. **Acesse a pasta do projeto**  
    Navegue até o diretório do projeto recém-clonado:  
